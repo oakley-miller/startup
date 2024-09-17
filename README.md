@@ -1,8 +1,8 @@
 ### Accident Report Retrieval
-##Specification Deliverable
-#Elevator Pitch
+## Specification Deliverable
+# Elevator Pitch
 I am creating a website that allows people involved in an auto accident to quickly find an accident report (police report) for their accident. This website will allow users to select what state they are from, and either show them an aggregate list of all police reports filed in that state or it will give them detailed state-specific instructions on what they need to do to find their accident report to send to their insurance company.
-#Key Features
+# Key Features
 - Interactive map where visitor can select their state
 - Live Crash reports submitted to national databases
 - Lead data is captured and stored
